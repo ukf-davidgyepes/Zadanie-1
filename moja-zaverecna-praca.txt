@@ -1,3 +1,5 @@
 Meranie a pracovanie s arduinom
 
 Anotácia
+
+Rok 2022
